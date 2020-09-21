@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 export default function Navbar(props) {
   const onClick = () => {
-    window.open("https://www.tinder.com/");
+    window.open("https://www.youtube.com/watch?v=Ub-1mzI0nFQ");
   };
   return (
     <div onClick={onClick} className="navbar">

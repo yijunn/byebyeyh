@@ -11,17 +11,13 @@ export default function LeftContent() {
             width: "100%",
             justifyContent: "space-between",
             marginBottom: "10px",
-            fontSize: "18px"
+            fontSize: "18px",
           }}
         >
           <div style={{ fontSize: "14px", fontWeight: 500 }}>My Groups (6)</div>
         </div>
-        <Row title="New Job" lastUpdated="1 month ago" />
-        <Row title="Stones and Scream" lastUpdated="1 month ago" />
-        <Row title="Music Enthusiasts" lastUpdated="4 month ago" />
-        <Row title="Hamster Enthusiasts" lastUpdated="1 year ago" />
-        <Row title="Product Enthusiasts" lastUpdated="4 years ago" />
-        <Row title="Singles Club" lastUpdated="26 years ago" />
+        <Row title="Good bye" lastUpdated="2 months ago" />
+        <Row title="Welcome to the family" lastUpdated="3 years ago" />
         <br />
         <div className="leftLink">Discover groups</div>
         <div className="leftLink">Join your school groups</div>
