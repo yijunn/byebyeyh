@@ -71,6 +71,13 @@ export const messages = [
     profileImg: "./chenghuaprofile.png",
   },
   {
+    title: "Farewell",
+    name: "Marvin",
+    msg: "Take care Master Yaohui, and all the best for the adventures that lie ahead! ",
+    coverImg: "./marvincover.jpg",
+    profileImg: "./marvinprofile.jpg",
+  },
+  {
     title: "Congratulations, and best of luck!",
     name: "Ray",
     msg:
