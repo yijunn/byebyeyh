@@ -54,4 +54,12 @@ export const messages = [
     coverImg: "./jennycover.jpg",
     profileImg: "./jennyprofile.jpg",
   },
+  {
+    title: "Ciao! my master!",
+    name: "Ayao",
+    msg:
+      "Hi, master YaoHui. You help me a lot everywhere! Not only in the code base, you always point out my mistakes and help me to improve them. Wish you have a wonderful life in the new world!!",
+    coverImg: "./ayaocover.jpg",
+    profileImg: "./ayaoprofile.jpg",
+  },
 ];
