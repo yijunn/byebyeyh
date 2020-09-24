@@ -29,4 +29,11 @@ export const messages = [
     coverImg: "./phatcover.jpg",
     profileImg: "./phatprofile.jpg",
   },
+  {
+    title: "To the new land",
+    name: "Trong",
+    msg: "Hey Yaohui! I admired you with the new place you're coming. I'll try my best to go to Amazon's competitor. Peace!!!",
+    coverImg: "./IMG_8240.jpg",
+    profileImg: "./Trong-Avatar-Toon.jpg",
+  },
 ];
