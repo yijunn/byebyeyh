@@ -83,7 +83,7 @@ export const messages = [
     name: "Hii",
     msg:
       "Yao Hui, congrats on your new role! Sad to hear you are leaving SG, miss the daily after work foos ball sessions. Hope to work with you at Amazon one day!",
-    coverImg: "./hiicover.png",
+    coverImg: "./hiicover.jpg",
     profileImg: "./hiiprofile.jpg",
   },
 ];
