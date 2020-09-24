@@ -101,4 +101,11 @@ export const messages = [
     coverImg: "./bencover.jpg",
     profileImg: "./benprofile.jpg",
   },
+  {
+    title: "Yooooo",
+    name: "cyrandy",
+    msg: "Bye my table buddy, will definitely miss our chat on 145. All the best in Seattle!",
+    coverImg: "./cyrandycover.jpg",
+    profileImg: "./cyrandyprofile.png",
+  },
 ];
