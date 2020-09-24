@@ -8,4 +8,11 @@ export const messages = [
   //   coverImg: "./ahbobcover.jpg",
   //   profileImg: "./ahbobprofile.jpg",
   // },
+  {
+    title: "Yamato meet Bezos",
+    name: "Ming",
+    msg: "JTTW/ig-run/foosball bruh, all the best! Stay in touch :D",
+    coverImg: "./mingcover.jpg",
+    profileImg: "./mingprofile.jpg",
+  },
 ];
