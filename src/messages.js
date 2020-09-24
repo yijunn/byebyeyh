@@ -88,7 +88,7 @@ export const messages = [
   },
   {
     title: "Hope your foosball skills have improved",
-    name: "bang",
+    name: "bruce lim",
     msg: `“Every new beginning comes from some other beginning’s end.”`,
     coverImg: "./bangcover.png",
     profileImg: "./bangprofile.jpg",
