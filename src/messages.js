@@ -15,4 +15,11 @@ export const messages = [
     coverImg: "./mingcover.jpg",
     profileImg: "./mingprofile.jpg",
   },
+  {
+    title: "Checking flights from SFO to SEA",
+    name: "SY",
+    msg: "$130 only!! See you in a bit",
+    coverImg: "./sycover.jpg",
+    profileImg: "./syprofile.jpg",
+  },
 ];
