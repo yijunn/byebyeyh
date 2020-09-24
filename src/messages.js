@@ -25,8 +25,17 @@ export const messages = [
   {
     title: "Here's to your future success",
     name: "Phat",
-    msg: "Thanks for helping with my lousy shoulder (Nov 2018), will rmb that until i die. All the best with you new journey, exciting times ahead!",
+    msg:
+      "Thanks for helping with my lousy shoulder (Nov 2018), will rmb that until i die. All the best with you new journey, exciting times ahead!",
     coverImg: "./phatcover.jpg",
     profileImg: "./phatprofile.jpg",
+  },
+  {
+    title: "Always a master",
+    name: "Andrew",
+    msg:
+      "Thanks for guiding me when I joined web team. I learn a lot from you during this time. Am happy for you and don't worry about chat when you are away. I'll do my best to take good care of it! All the best!",
+    coverImg: "./andrewcover.jpg",
+    profileImg: "./andrewprofile.jpg",
   },
 ];
