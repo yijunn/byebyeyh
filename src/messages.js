@@ -86,4 +86,12 @@ export const messages = [
     coverImg: "./hiicover.jpg",
     profileImg: "./hiiprofile.jpg",
   },
+  {
+    title: "Hope your foosball skills have improved",
+    name: "bang",
+    msg: `“Every new beginning comes from some other beginning’s end.”`,
+    coverImg: "./bangcover.png",
+    profileImg: "./bangprofile.jpg",
+    rel: "Fellow web enthusiast",
+  },
 ];
