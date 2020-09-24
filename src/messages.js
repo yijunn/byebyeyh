@@ -22,4 +22,11 @@ export const messages = [
     coverImg: "./sycover.jpg",
     profileImg: "./syprofile.jpg",
   },
+  {
+    title: "Here's to your future success",
+    name: "Phat",
+    msg: "Thanks for helping with my lousy shoulder (Nov 2018), will rmb that until i die. All the best with you new journey, exciting times ahead!",
+    coverImg: "./phatcover.jpg",
+    profileImg: "./phatprofile.jpg",
+  },
 ];
