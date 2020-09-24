@@ -69,4 +69,12 @@ export const messages = [
     coverImg: "./chenghuacover.jpg",
     profileImg: "./chenghuaprofile.png",
   },
+  {
+    title: "Congratulations, and best of luck!",
+    name: "Ray",
+    msg:
+      "Hello master YaoHui, thanks for all the support and I also learned a lot from you, especially the perspective of mindset build up during the time we worked together. Take care, and wishing you all the best!",
+    coverImg: "./raycover.png",
+    profileImg: "./rayprofile.jpg",
+  },
 ];
