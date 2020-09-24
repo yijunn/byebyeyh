@@ -62,4 +62,11 @@ export const messages = [
     coverImg: "./ayaocover.jpg",
     profileImg: "./ayaoprofile.jpg",
   },
+    title: "Bye Bye Master",
+    name: "Chenghua",
+    msg:
+      "Hi master, thank you for all the guidances and helpings. I won't forget when I asked you for leading the interview, you agreed without hesitation 🙇‍♂️. Congratulations & All the best!",
+    coverImg: "./chenghuacover.jpg",
+    profileImg: "./chenghuaprofile.png",
+  },
 ];
