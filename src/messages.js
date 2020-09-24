@@ -46,4 +46,12 @@ export const messages = [
     coverImg: "./IMG_8240.jpg",
     profileImg: "./Trong-Avatar-Toon.jpg",
   },
+  {
+    title: "Congratulations on your new journey",
+    name: "Jenny",
+    msg:
+      "Hi master, thank you for being my buddy when I visited SG office for the Carousell 101. I felt lucky that I was able to meet you in person, and am also sad that I won't have the chance to meet you there again. Thanks for always being patient with my lengthy questions and PRs. You're my role model, and I wish I could be as friendly and professional as you are. Wish you all the best in the US!",
+    coverImg: "./jennycover.jpg",
+    profileImg: "./jennyprofile.jpg",
+  },
 ];
