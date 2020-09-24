@@ -62,6 +62,7 @@ export const messages = [
     coverImg: "./ayaocover.jpg",
     profileImg: "./ayaoprofile.jpg",
   },
+  {
     title: "Bye Bye Master",
     name: "Chenghua",
     msg:
