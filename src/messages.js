@@ -94,4 +94,11 @@ export const messages = [
     profileImg: "./bangprofile.jpg",
     rel: "Fellow web enthusiast",
   },
+  {
+    title: "Grats",
+    name: "Ben",
+    msg: "Grats on your new role! Been good working and foosing with you. All the best!",
+    coverImg: "./bencover.jpg",
+    profileImg: "./benprofile.jpg",
+  },
 ];
