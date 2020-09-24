@@ -77,4 +77,12 @@ export const messages = [
     coverImg: "./raycover.png",
     profileImg: "./rayprofile.jpg",
   },
+  {
+    title: "Good luck and bon voyage!",
+    name: "Hii",
+    msg:
+      "Yao Hui, congrats on your new role! Sad to hear you are leaving SG, miss the daily after work foos ball sessions. Hope to work with you at Amazon one day!",
+    coverImg: "./hiicover.png",
+    profileImg: "./hiiprofile.jpg",
+  },
 ];
