@@ -158,4 +158,12 @@ export const messages = [
     coverImg: "./clarencecover.jpg",
     profileImg: "./clarenceprofile.jpg",
   },
+  {
+    title: "Hope you enjoyed your stay",
+    name: "bui",
+    msg:
+      "Bai bai mah bro! T_T",
+    coverImg: "./buic.jpg",
+    profileImg: "./buip.png",
+  },
 ];
