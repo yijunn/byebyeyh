@@ -157,6 +157,7 @@ export const messages = [
       "This is not goodbye. I'm sure our paths will cross again. Thanks again for the Carousell referral. My life has irrevocably changed for the better. Have fun in your next adventure in Seattle!",
     coverImg: "./dylancover.svg",
     profileImg: "./dylanprofile.jpg",
+    rel: "Harvard (wow) Friend",
   },
   {
     title: "Not you too!",
