@@ -174,4 +174,11 @@ export const messages = [
     coverImg: "./buic.jpg",
     profileImg: "./buip.png",
   },
+  {
+    title: "All da best bro!",
+    name: "Sathish",
+    msg: "Hey Yao Hui, Really great having you around in Carousell! Thanks for intro-ing me to CITC! Had a great time there.",
+    coverImg: "./sathishcover.jpg",
+    profileImg: "./sathishprofile.jpg",
+  },
 ];
