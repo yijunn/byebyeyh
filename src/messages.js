@@ -150,4 +150,12 @@ export const messages = [
     coverImg: "./yijuncover.jpg",
     profileImg: "./yijunprofile.png",
   },
+  {
+    title: "Not you too!",
+    name: "clarence",
+    msg:
+      "Master Yao Hui, its been a treat to see you constantly play your A-game, and sad that you're taking your talent elsewhere. All the best in an exciting new environment, and have fun with Vue.js!",
+    coverImg: "./clarencecover.jpg",
+    profileImg: "./clarenceprofile.jpg",
+  },
 ];
