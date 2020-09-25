@@ -142,11 +142,12 @@ export const messages = [
     coverImg: "./jaycover.jpg",
     profileImg: "./jayprofile.jpg",
   },
-    {
+  {
     title: "All the best, Yao Hui!",
     name: "Yijun",
-    msg: "Very sad that you're leaving us :( but very happy and honoured to have worked with you too! Thanks for being the best web engineer!!! Will see you at the Foosball table again someday?",
+    msg:
+      "Very sad that you're leaving us :( but very happy and honoured to have worked with you too! Thanks for being the best web engineer!!! Will see you at the Foosball table again someday?",
     coverImg: "./yijuncover.jpg",
-    profileImg: "./yijunprofile.jpeg",
+    profileImg: "./yijunprofile.png",
   },
 ];
