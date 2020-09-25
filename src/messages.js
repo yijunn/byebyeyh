@@ -151,6 +151,14 @@ export const messages = [
     profileImg: "./yijunprofile.png",
   },
   {
+    title: "Farewell Yamato",
+    name: "Dlearn",
+    msg:
+      "This is not goodbye. I'm sure our paths will cross again. Thanks again for the Carousell referral. My life has irrevocably changed for the better. Have fun in your next adventure in Seattle!",
+    coverImg: "./dylancover.svg",
+    profileImg: "./dylanprofile.jpg",
+  },
+  {
     title: "Not you too!",
     name: "clarence",
     msg:
@@ -161,8 +169,7 @@ export const messages = [
   {
     title: "Hope you enjoyed your stay",
     name: "bui",
-    msg:
-      "Bai bai mah bro! T_T",
+    msg: "Bai bai mah bro! T_T",
     coverImg: "./buic.jpg",
     profileImg: "./buip.png",
   },
