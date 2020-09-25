@@ -164,6 +164,6 @@ export const messages = [
     msg:
       "Bai bai mah bro! T_T",
     coverImg: "./buic.jpg",
-    profileImg: "./buip.jpg",
+    profileImg: "./buip.png",
   },
 ];
