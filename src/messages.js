@@ -73,7 +73,8 @@ export const messages = [
   {
     title: "Farewell",
     name: "Marvin",
-    msg: "Take care Master Yaohui, and all the best for the adventures that lie ahead! ",
+    msg:
+      "Take care Master Yaohui, and all the best for the adventures that lie ahead! ",
     coverImg: "./marvincover.jpg",
     profileImg: "./marvinprofile.jpg",
   },
@@ -104,29 +105,41 @@ export const messages = [
   {
     title: "Grats",
     name: "Ben",
-    msg: "Grats on your new role! Been good working and foosing with you. All the best!",
+    msg:
+      "Grats on your new role! Been good working and foosing with you. All the best!",
     coverImg: "./bencover.jpg",
     profileImg: "./benprofile.jpg",
   },
   {
     title: "Yooooo",
     name: "cyrandy",
-    msg: "Bye my table buddy, will definitely miss our chat on 145. All the best in Seattle!",
+    msg:
+      "Bye my table buddy, will definitely miss our chat on 145. All the best in Seattle!",
     coverImg: "./cyrandycover.jpg",
     profileImg: "./cyrandyprofile.png",
   },
   {
     title: "See ya man",
     name: "Aaron",
-    msg: "Dude thanks for working with me on the revamping of the interview, we changed a lot of things. Wish you the best for your next adventure!",
+    msg:
+      "Dude thanks for working with me on the revamping of the interview, we changed a lot of things. Wish you the best for your next adventure!",
     coverImg: "./aaronlamcover.jpg",
     profileImg: "./aaronlamprofile.jpeg",
   },
   {
     title: "Coffee! Seattle! It's settled!",
     name: "Dave",
-    msg: "With a heavy heart, I'm writing this farewell letter... Nah, I'm not sad. I'm happy that you've gotten a dream job at a trilliion dollars company, you made us prooud. Still remember we were talking about the US just few months ago over our virtual lunch, and now you have achieve that goal. Being a doer not a talker is one of the traits I respect very much about you. I'm glad we had chance to work in the same team! Let's grab that famous Seattle coffee one day!",
+    msg:
+      "With a heavy heart, I'm writing this farewell letter... Nah, I'm not sad. I'm happy that you've gotten a dream job at a trilliion dollars company, you made us prooud. Still remember we were talking about the US just few months ago over our virtual lunch, and now you have achieve that goal. Being a doer not a talker is one of the traits I respect very much about you. I'm glad we had chance to work in the same team! Let's grab that famous Seattle coffee one day!",
     coverImg: "./davecover.jpg",
     profileImg: "./daveprofile.jpeg",
+  },
+  {
+    title: "Hey Yao Hui! Another webmaster leaving…",
+    name: "j1000words",
+    msg:
+      "=[ Thanks for all the awesome work! But more importantly, thanks for being a core and active member of the only ig that matters, IG-RUN !! Take care, eat lots of awesome seafood. All the best! =]",
+    coverImg: "./jaycover.jpg",
+    profileImg: "./jayprofile.jpg",
   },
 ];
