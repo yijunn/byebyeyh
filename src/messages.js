@@ -122,4 +122,11 @@ export const messages = [
     coverImg: "./aaronlamcover.jpg",
     profileImg: "./aaronlamprofile.jpeg",
   },
+  {
+    title: "Coffee! Seattle! It's settled!",
+    name: "Dave",
+    msg: "With a heavy heart, I'm writing this farewell letter... Nah, I'm not sad. I'm happy that you've gotten a dream job at a trilliion dollars company, you made us prooud. Still remember we were talking about the US just few months ago over our virtual lunch, and now you have achieve that goal. Being a doer not a talker is one of the traits I respect very much about you. I'm glad we had chance to work in the same team! Let's grab that famous Seattle coffee one day!",
+    coverImg: "./davecover.jpg",
+    profileImg: "./daveprofile.jpeg",
+  },
 ];
